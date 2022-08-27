@@ -61,5 +61,6 @@ img {
 
 .slide-in.active {
   opacity: 1;
-  transform: translateX(0%) scale(1);
+  translate: 0;
+  scale: 1;
 }
