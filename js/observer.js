@@ -1,4 +1,4 @@
-const images = document.querySelectorAll('img.slide-in')
+const images = document.querySelectorAll('img')
 const imageObserverOptions = {
   rootMargin: '-25% 0px -25%'
 }
