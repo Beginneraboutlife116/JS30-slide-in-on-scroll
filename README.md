@@ -58,3 +58,7 @@ I would keep play the intersection observer for modern website design, or even t
 - [JavaScript Scroll Animation Tutorial | Web Animations API + ScrollTimeline](https://www.youtube.com/watch?v=VgS5CP7zlXE) - With this video, I know how to use the scroll timeline polyfill.
 - [Scroll-timeline Polyfill](https://github.com/flackr/scroll-timeline) - play with it to build a lot of wonderful stuffs!
   - The article for that, it's detailed. [Scroll-Linked Animations With the Web Animations API (WAAPI) and ScrollTimeline](https://css-tricks.com/scroll-linked-animations-with-the-web-animations-api-waapi-and-scrolltimeline/)
+- [Lazy loading is too easy now](https://www.youtube.com/watch?v=AActXSWxsRo&t=811s) - It gave me a great demo for lazy loading on HTML.
+  - However, this challenge only has 4 images to load, and the last picture is same as the first, so it still loads once the html was finished.
+  - But still, it contains tons of knowledge about the `load="lazy"` on HTML.
+  - Also, we could check [W3School](https://www.w3schools.com/tags/att_img_loading.asp) for more details.
